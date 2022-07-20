@@ -34,6 +34,9 @@ http://localhost/metrics
 
 # prometheus
 http://localhost:9090/
+
+# grafana
+http://localhost:3000/
 ```
 
 ### Queries para Prometheus (PromQL)
