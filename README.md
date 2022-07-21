@@ -1,10 +1,10 @@
-# Exemplos de código do curso Observabilidade (Alura) 
+# Exemplos de código do curso Observabilidade/Monitoramento (Alura) 
 <br>
 
 ## Projetos/pastas separados pelos cursos:
 - ### [/prometheus-grafana/](https://github.com/TomazWill/observabilidade-alura/tree/master//prometheus-grafana)
   - Curso: Observabilidade: coletando métricas de uma aplicação com Prometheus
-
+  - Monitoramento: Prometheus, Grafana e Alertmanager
 
 <br>
 
@@ -70,3 +70,4 @@ sum(irate(http_server_requests_seconds_count{application="app-forum-api", uri!="
 ###	**REFERÊNCIAS**
 - Cursos: <br>
   - [Observabilidade com Prometheus](https://cursos.alura.com.br/course/observabilidade-prometheus "Observabilidade com Prometheus")
+  - [Monitoramento: Prometheus, Grafana e Alertmanager](https://cursos.alura.com.br/course/monitoramento-prometheus-grafana-alertmanager "Monitoramento: Prometheus, Grafana e Alertmanager")
